@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'accounts',
     'expenses',
     'rest_framework',
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
